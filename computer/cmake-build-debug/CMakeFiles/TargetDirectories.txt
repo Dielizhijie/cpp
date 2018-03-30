@@ -1,0 +1,3 @@
+/home/zhijeilee/project/cpp/computer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/zhijeilee/project/cpp/computer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/zhijeilee/project/cpp/computer/cmake-build-debug/CMakeFiles/computer.dir
