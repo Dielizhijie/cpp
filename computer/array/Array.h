@@ -3,6 +3,8 @@
 #include <iostream>
 
 class Array {
+
+
 };
 
 #endif //COMPUTER_ARRAY_H
