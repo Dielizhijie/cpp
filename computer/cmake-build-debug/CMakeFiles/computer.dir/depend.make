@@ -10,16 +10,14 @@ CMakeFiles/computer.dir/data/Data.cpp.o: ../data/Data.h
 CMakeFiles/computer.dir/decimal/Decimal.cpp.o: ../decimal/Decimal.cpp
 CMakeFiles/computer.dir/decimal/Decimal.cpp.o: ../decimal/Decimal.h
 
-CMakeFiles/computer.dir/float/Float.cpp.o: ../float/Float.cpp
-CMakeFiles/computer.dir/float/Float.cpp.o: ../float/Float.h
-
 CMakeFiles/computer.dir/main.cpp.o: ../data/Data.h
 CMakeFiles/computer.dir/main.cpp.o: ../decimal/Decimal.h
 CMakeFiles/computer.dir/main.cpp.o: ../main.cpp
+CMakeFiles/computer.dir/main.cpp.o: ../matrix/Matrix.h
 CMakeFiles/computer.dir/main.cpp.o: ../system/System.h
 
-CMakeFiles/computer.dir/matricSquare/MatricxSquare.cpp.o: ../matricSquare/MatricxSquare.cpp
-CMakeFiles/computer.dir/matricSquare/MatricxSquare.cpp.o: ../matricSquare/MatricxSquare.h
+CMakeFiles/computer.dir/matrix/Matrix.cpp.o: ../matrix/Matrix.cpp
+CMakeFiles/computer.dir/matrix/Matrix.cpp.o: ../matrix/Matrix.h
 
 CMakeFiles/computer.dir/system/System.cpp.o: ../system/System.cpp
 CMakeFiles/computer.dir/system/System.cpp.o: ../system/System.h

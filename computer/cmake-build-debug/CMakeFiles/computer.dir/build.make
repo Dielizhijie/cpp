@@ -81,33 +81,9 @@ CMakeFiles/computer.dir/main.cpp.o.provides: CMakeFiles/computer.dir/main.cpp.o.
 CMakeFiles/computer.dir/main.cpp.o.provides.build: CMakeFiles/computer.dir/main.cpp.o
 
 
-CMakeFiles/computer.dir/matricSquare/MatricxSquare.cpp.o: CMakeFiles/computer.dir/flags.make
-CMakeFiles/computer.dir/matricSquare/MatricxSquare.cpp.o: ../matricSquare/MatricxSquare.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zhijeilee/project/cpp/computer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/computer.dir/matricSquare/MatricxSquare.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/computer.dir/matricSquare/MatricxSquare.cpp.o -c /home/zhijeilee/project/cpp/computer/matricSquare/MatricxSquare.cpp
-
-CMakeFiles/computer.dir/matricSquare/MatricxSquare.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/computer.dir/matricSquare/MatricxSquare.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zhijeilee/project/cpp/computer/matricSquare/MatricxSquare.cpp > CMakeFiles/computer.dir/matricSquare/MatricxSquare.cpp.i
-
-CMakeFiles/computer.dir/matricSquare/MatricxSquare.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/computer.dir/matricSquare/MatricxSquare.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zhijeilee/project/cpp/computer/matricSquare/MatricxSquare.cpp -o CMakeFiles/computer.dir/matricSquare/MatricxSquare.cpp.s
-
-CMakeFiles/computer.dir/matricSquare/MatricxSquare.cpp.o.requires:
-
-.PHONY : CMakeFiles/computer.dir/matricSquare/MatricxSquare.cpp.o.requires
-
-CMakeFiles/computer.dir/matricSquare/MatricxSquare.cpp.o.provides: CMakeFiles/computer.dir/matricSquare/MatricxSquare.cpp.o.requires
-	$(MAKE) -f CMakeFiles/computer.dir/build.make CMakeFiles/computer.dir/matricSquare/MatricxSquare.cpp.o.provides.build
-.PHONY : CMakeFiles/computer.dir/matricSquare/MatricxSquare.cpp.o.provides
-
-CMakeFiles/computer.dir/matricSquare/MatricxSquare.cpp.o.provides.build: CMakeFiles/computer.dir/matricSquare/MatricxSquare.cpp.o
-
-
 CMakeFiles/computer.dir/array/Array.cpp.o: CMakeFiles/computer.dir/flags.make
 CMakeFiles/computer.dir/array/Array.cpp.o: ../array/Array.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zhijeilee/project/cpp/computer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/computer.dir/array/Array.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zhijeilee/project/cpp/computer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/computer.dir/array/Array.cpp.o"
 	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/computer.dir/array/Array.cpp.o -c /home/zhijeilee/project/cpp/computer/array/Array.cpp
 
 CMakeFiles/computer.dir/array/Array.cpp.i: cmake_force
@@ -129,33 +105,9 @@ CMakeFiles/computer.dir/array/Array.cpp.o.provides: CMakeFiles/computer.dir/arra
 CMakeFiles/computer.dir/array/Array.cpp.o.provides.build: CMakeFiles/computer.dir/array/Array.cpp.o
 
 
-CMakeFiles/computer.dir/float/Float.cpp.o: CMakeFiles/computer.dir/flags.make
-CMakeFiles/computer.dir/float/Float.cpp.o: ../float/Float.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zhijeilee/project/cpp/computer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/computer.dir/float/Float.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/computer.dir/float/Float.cpp.o -c /home/zhijeilee/project/cpp/computer/float/Float.cpp
-
-CMakeFiles/computer.dir/float/Float.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/computer.dir/float/Float.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zhijeilee/project/cpp/computer/float/Float.cpp > CMakeFiles/computer.dir/float/Float.cpp.i
-
-CMakeFiles/computer.dir/float/Float.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/computer.dir/float/Float.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zhijeilee/project/cpp/computer/float/Float.cpp -o CMakeFiles/computer.dir/float/Float.cpp.s
-
-CMakeFiles/computer.dir/float/Float.cpp.o.requires:
-
-.PHONY : CMakeFiles/computer.dir/float/Float.cpp.o.requires
-
-CMakeFiles/computer.dir/float/Float.cpp.o.provides: CMakeFiles/computer.dir/float/Float.cpp.o.requires
-	$(MAKE) -f CMakeFiles/computer.dir/build.make CMakeFiles/computer.dir/float/Float.cpp.o.provides.build
-.PHONY : CMakeFiles/computer.dir/float/Float.cpp.o.provides
-
-CMakeFiles/computer.dir/float/Float.cpp.o.provides.build: CMakeFiles/computer.dir/float/Float.cpp.o
-
-
 CMakeFiles/computer.dir/data/Data.cpp.o: CMakeFiles/computer.dir/flags.make
 CMakeFiles/computer.dir/data/Data.cpp.o: ../data/Data.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zhijeilee/project/cpp/computer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/computer.dir/data/Data.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zhijeilee/project/cpp/computer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/computer.dir/data/Data.cpp.o"
 	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/computer.dir/data/Data.cpp.o -c /home/zhijeilee/project/cpp/computer/data/Data.cpp
 
 CMakeFiles/computer.dir/data/Data.cpp.i: cmake_force
@@ -179,7 +131,7 @@ CMakeFiles/computer.dir/data/Data.cpp.o.provides.build: CMakeFiles/computer.dir/
 
 CMakeFiles/computer.dir/system/System.cpp.o: CMakeFiles/computer.dir/flags.make
 CMakeFiles/computer.dir/system/System.cpp.o: ../system/System.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zhijeilee/project/cpp/computer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/computer.dir/system/System.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zhijeilee/project/cpp/computer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/computer.dir/system/System.cpp.o"
 	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/computer.dir/system/System.cpp.o -c /home/zhijeilee/project/cpp/computer/system/System.cpp
 
 CMakeFiles/computer.dir/system/System.cpp.i: cmake_force
@@ -203,7 +155,7 @@ CMakeFiles/computer.dir/system/System.cpp.o.provides.build: CMakeFiles/computer.
 
 CMakeFiles/computer.dir/decimal/Decimal.cpp.o: CMakeFiles/computer.dir/flags.make
 CMakeFiles/computer.dir/decimal/Decimal.cpp.o: ../decimal/Decimal.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zhijeilee/project/cpp/computer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/computer.dir/decimal/Decimal.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zhijeilee/project/cpp/computer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/computer.dir/decimal/Decimal.cpp.o"
 	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/computer.dir/decimal/Decimal.cpp.o -c /home/zhijeilee/project/cpp/computer/decimal/Decimal.cpp
 
 CMakeFiles/computer.dir/decimal/Decimal.cpp.i: cmake_force
@@ -225,29 +177,51 @@ CMakeFiles/computer.dir/decimal/Decimal.cpp.o.provides: CMakeFiles/computer.dir/
 CMakeFiles/computer.dir/decimal/Decimal.cpp.o.provides.build: CMakeFiles/computer.dir/decimal/Decimal.cpp.o
 
 
+CMakeFiles/computer.dir/matrix/Matrix.cpp.o: CMakeFiles/computer.dir/flags.make
+CMakeFiles/computer.dir/matrix/Matrix.cpp.o: ../matrix/Matrix.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zhijeilee/project/cpp/computer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/computer.dir/matrix/Matrix.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/computer.dir/matrix/Matrix.cpp.o -c /home/zhijeilee/project/cpp/computer/matrix/Matrix.cpp
+
+CMakeFiles/computer.dir/matrix/Matrix.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/computer.dir/matrix/Matrix.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zhijeilee/project/cpp/computer/matrix/Matrix.cpp > CMakeFiles/computer.dir/matrix/Matrix.cpp.i
+
+CMakeFiles/computer.dir/matrix/Matrix.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/computer.dir/matrix/Matrix.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zhijeilee/project/cpp/computer/matrix/Matrix.cpp -o CMakeFiles/computer.dir/matrix/Matrix.cpp.s
+
+CMakeFiles/computer.dir/matrix/Matrix.cpp.o.requires:
+
+.PHONY : CMakeFiles/computer.dir/matrix/Matrix.cpp.o.requires
+
+CMakeFiles/computer.dir/matrix/Matrix.cpp.o.provides: CMakeFiles/computer.dir/matrix/Matrix.cpp.o.requires
+	$(MAKE) -f CMakeFiles/computer.dir/build.make CMakeFiles/computer.dir/matrix/Matrix.cpp.o.provides.build
+.PHONY : CMakeFiles/computer.dir/matrix/Matrix.cpp.o.provides
+
+CMakeFiles/computer.dir/matrix/Matrix.cpp.o.provides.build: CMakeFiles/computer.dir/matrix/Matrix.cpp.o
+
+
 # Object files for target computer
 computer_OBJECTS = \
 "CMakeFiles/computer.dir/main.cpp.o" \
-"CMakeFiles/computer.dir/matricSquare/MatricxSquare.cpp.o" \
 "CMakeFiles/computer.dir/array/Array.cpp.o" \
-"CMakeFiles/computer.dir/float/Float.cpp.o" \
 "CMakeFiles/computer.dir/data/Data.cpp.o" \
 "CMakeFiles/computer.dir/system/System.cpp.o" \
-"CMakeFiles/computer.dir/decimal/Decimal.cpp.o"
+"CMakeFiles/computer.dir/decimal/Decimal.cpp.o" \
+"CMakeFiles/computer.dir/matrix/Matrix.cpp.o"
 
 # External object files for target computer
 computer_EXTERNAL_OBJECTS =
 
 computer: CMakeFiles/computer.dir/main.cpp.o
-computer: CMakeFiles/computer.dir/matricSquare/MatricxSquare.cpp.o
 computer: CMakeFiles/computer.dir/array/Array.cpp.o
-computer: CMakeFiles/computer.dir/float/Float.cpp.o
 computer: CMakeFiles/computer.dir/data/Data.cpp.o
 computer: CMakeFiles/computer.dir/system/System.cpp.o
 computer: CMakeFiles/computer.dir/decimal/Decimal.cpp.o
+computer: CMakeFiles/computer.dir/matrix/Matrix.cpp.o
 computer: CMakeFiles/computer.dir/build.make
 computer: CMakeFiles/computer.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/zhijeilee/project/cpp/computer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable computer"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/zhijeilee/project/cpp/computer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable computer"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/computer.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -256,12 +230,11 @@ CMakeFiles/computer.dir/build: computer
 .PHONY : CMakeFiles/computer.dir/build
 
 CMakeFiles/computer.dir/requires: CMakeFiles/computer.dir/main.cpp.o.requires
-CMakeFiles/computer.dir/requires: CMakeFiles/computer.dir/matricSquare/MatricxSquare.cpp.o.requires
 CMakeFiles/computer.dir/requires: CMakeFiles/computer.dir/array/Array.cpp.o.requires
-CMakeFiles/computer.dir/requires: CMakeFiles/computer.dir/float/Float.cpp.o.requires
 CMakeFiles/computer.dir/requires: CMakeFiles/computer.dir/data/Data.cpp.o.requires
 CMakeFiles/computer.dir/requires: CMakeFiles/computer.dir/system/System.cpp.o.requires
 CMakeFiles/computer.dir/requires: CMakeFiles/computer.dir/decimal/Decimal.cpp.o.requires
+CMakeFiles/computer.dir/requires: CMakeFiles/computer.dir/matrix/Matrix.cpp.o.requires
 
 .PHONY : CMakeFiles/computer.dir/requires
 

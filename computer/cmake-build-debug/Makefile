@@ -204,33 +204,6 @@ decimal/Decimal.cpp.s:
 	$(MAKE) -f CMakeFiles/computer.dir/build.make CMakeFiles/computer.dir/decimal/Decimal.cpp.s
 .PHONY : decimal/Decimal.cpp.s
 
-float/Float.o: float/Float.cpp.o
-
-.PHONY : float/Float.o
-
-# target to build an object file
-float/Float.cpp.o:
-	$(MAKE) -f CMakeFiles/computer.dir/build.make CMakeFiles/computer.dir/float/Float.cpp.o
-.PHONY : float/Float.cpp.o
-
-float/Float.i: float/Float.cpp.i
-
-.PHONY : float/Float.i
-
-# target to preprocess a source file
-float/Float.cpp.i:
-	$(MAKE) -f CMakeFiles/computer.dir/build.make CMakeFiles/computer.dir/float/Float.cpp.i
-.PHONY : float/Float.cpp.i
-
-float/Float.s: float/Float.cpp.s
-
-.PHONY : float/Float.s
-
-# target to generate assembly for a file
-float/Float.cpp.s:
-	$(MAKE) -f CMakeFiles/computer.dir/build.make CMakeFiles/computer.dir/float/Float.cpp.s
-.PHONY : float/Float.cpp.s
-
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -258,32 +231,32 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles/computer.dir/build.make CMakeFiles/computer.dir/main.cpp.s
 .PHONY : main.cpp.s
 
-matricSquare/MatricxSquare.o: matricSquare/MatricxSquare.cpp.o
+matrix/Matrix.o: matrix/Matrix.cpp.o
 
-.PHONY : matricSquare/MatricxSquare.o
+.PHONY : matrix/Matrix.o
 
 # target to build an object file
-matricSquare/MatricxSquare.cpp.o:
-	$(MAKE) -f CMakeFiles/computer.dir/build.make CMakeFiles/computer.dir/matricSquare/MatricxSquare.cpp.o
-.PHONY : matricSquare/MatricxSquare.cpp.o
+matrix/Matrix.cpp.o:
+	$(MAKE) -f CMakeFiles/computer.dir/build.make CMakeFiles/computer.dir/matrix/Matrix.cpp.o
+.PHONY : matrix/Matrix.cpp.o
 
-matricSquare/MatricxSquare.i: matricSquare/MatricxSquare.cpp.i
+matrix/Matrix.i: matrix/Matrix.cpp.i
 
-.PHONY : matricSquare/MatricxSquare.i
+.PHONY : matrix/Matrix.i
 
 # target to preprocess a source file
-matricSquare/MatricxSquare.cpp.i:
-	$(MAKE) -f CMakeFiles/computer.dir/build.make CMakeFiles/computer.dir/matricSquare/MatricxSquare.cpp.i
-.PHONY : matricSquare/MatricxSquare.cpp.i
+matrix/Matrix.cpp.i:
+	$(MAKE) -f CMakeFiles/computer.dir/build.make CMakeFiles/computer.dir/matrix/Matrix.cpp.i
+.PHONY : matrix/Matrix.cpp.i
 
-matricSquare/MatricxSquare.s: matricSquare/MatricxSquare.cpp.s
+matrix/Matrix.s: matrix/Matrix.cpp.s
 
-.PHONY : matricSquare/MatricxSquare.s
+.PHONY : matrix/Matrix.s
 
 # target to generate assembly for a file
-matricSquare/MatricxSquare.cpp.s:
-	$(MAKE) -f CMakeFiles/computer.dir/build.make CMakeFiles/computer.dir/matricSquare/MatricxSquare.cpp.s
-.PHONY : matricSquare/MatricxSquare.cpp.s
+matrix/Matrix.cpp.s:
+	$(MAKE) -f CMakeFiles/computer.dir/build.make CMakeFiles/computer.dir/matrix/Matrix.cpp.s
+.PHONY : matrix/Matrix.cpp.s
 
 system/System.o: system/System.cpp.o
 
@@ -330,15 +303,12 @@ help:
 	@echo "... decimal/Decimal.o"
 	@echo "... decimal/Decimal.i"
 	@echo "... decimal/Decimal.s"
-	@echo "... float/Float.o"
-	@echo "... float/Float.i"
-	@echo "... float/Float.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
-	@echo "... matricSquare/MatricxSquare.o"
-	@echo "... matricSquare/MatricxSquare.i"
-	@echo "... matricSquare/MatricxSquare.s"
+	@echo "... matrix/Matrix.o"
+	@echo "... matrix/Matrix.i"
+	@echo "... matrix/Matrix.s"
 	@echo "... system/System.o"
 	@echo "... system/System.i"
 	@echo "... system/System.s"

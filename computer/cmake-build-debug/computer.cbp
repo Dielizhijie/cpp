@@ -102,19 +102,13 @@
 		<Unit filename="/home/zhijeilee/project/cpp/computer/decimal/Decimal.h">
 			<Option target="computer"/>
 		</Unit>
-		<Unit filename="/home/zhijeilee/project/cpp/computer/float/Float.cpp">
-			<Option target="computer"/>
-		</Unit>
-		<Unit filename="/home/zhijeilee/project/cpp/computer/float/Float.h">
-			<Option target="computer"/>
-		</Unit>
 		<Unit filename="/home/zhijeilee/project/cpp/computer/main.cpp">
 			<Option target="computer"/>
 		</Unit>
-		<Unit filename="/home/zhijeilee/project/cpp/computer/matricSquare/MatricxSquare.cpp">
+		<Unit filename="/home/zhijeilee/project/cpp/computer/matrix/Matrix.cpp">
 			<Option target="computer"/>
 		</Unit>
-		<Unit filename="/home/zhijeilee/project/cpp/computer/matricSquare/MatricxSquare.h">
+		<Unit filename="/home/zhijeilee/project/cpp/computer/matrix/Matrix.h">
 			<Option target="computer"/>
 		</Unit>
 		<Unit filename="/home/zhijeilee/project/cpp/computer/system/System.cpp">
